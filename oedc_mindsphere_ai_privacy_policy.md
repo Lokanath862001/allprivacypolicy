@@ -42,8 +42,8 @@ The App operates under the principle of minimal privilege and does **not** reque
 
 ---
 
-### 4. Children’s Privacy (COPPA & GDPR Compliance)
-Our App is intended for general audiences interested in cognitive skills, logic puzzles, and brain training. We do not knowingly collect, solicit, or store personal information from children under the age of 13 (or under the applicable age of digital consent in your jurisdiction). If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately, and we will take prompt corrective action.
+### 4. Age Restrictions & Children’s Privacy (COPPA & GDPR Compliance)
+Our App is intended for learners aged 13 and older (minimum age 13, extending through age 100). The App enforces a minimum age threshold of 13 during profile creation and does not permit user profiles or learners under the age of 13. We do not knowingly collect, solicit, or store personal information from children under the age of 13 (or under the applicable age of digital consent in your jurisdiction). If you are a parent or guardian and believe that a child has provided us with personal information, please contact us immediately, and we will take prompt corrective action.
 
 ---
 
