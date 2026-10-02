@@ -64,4 +64,4 @@ If you have any questions, feedback, or concerns regarding this Privacy Policy o
 
 * **Developer:** SLV / Lokanath
 * **Email:** madhusmita852011@gmail.com
-* **GitHub Repository:** [https://github.com/Lokanath862001/allprivacypolicy](https://github.com/Lokanath862001/allprivacypolicy)
+* **Public Policy Repository:** [https://github.com/Lokanath862001/allprivacypolicy](https://github.com/Lokanath862001/allprivacypolicy)
