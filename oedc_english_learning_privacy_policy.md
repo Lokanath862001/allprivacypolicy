@@ -9,7 +9,7 @@
 ## ⚠️ MANDATORY GOVERNMENT NON-AFFILIATION DISCLAIMER
 
 > ### **IMPORTANT DISCLAIMER: NON-REPRESENTATION OF GOVERNMENT ENTITIES**
-> **OEDC English Learning is an independent educational and self-study application developed and maintained privately by Shree Lakshmi Ventures / Lokanath.**
+> **OEDC English Learning is an independent educational and self-study application developed and maintained privately by OEDC.**
 >
 > 1. **NOT A GOVERNMENT ENTITY:**  
 >    **This App DOES NOT represent, is NOT affiliated with, is NOT endorsed by, and is NOT officially authorized by the Government of India, any State Government, or any government commission, recruitment board, or public sector agency.**
@@ -137,7 +137,7 @@ We may update this Privacy Policy periodically to reflect app updates, new educa
 
 If you have questions, feedback, or legal inquiries regarding this Privacy Policy or your privacy rights while using OEDC English Learning, please contact us:
 
-* **Developer / Publisher:** Shree Lakshmi Ventures / Lokanath
+* **Developer / Publisher:** OEDC
 * **Application:** OEDC English Learning (`com.oedc.englishlearning`)
 * **Email:** madhusmita852011@gmail.com
 * **Official Privacy Policy Repository:** [https://github.com/Lokanath862001/allprivacypolicy](https://github.com/Lokanath862001/allprivacypolicy)
