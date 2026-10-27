@@ -63,4 +63,4 @@ We may update our Privacy Policy periodically to reflect enhancements to our fea
 If you have any questions, concerns, or requests regarding this Privacy Policy or the App, please contact us at:
 
 * **Email:** madhusmita852011@gmail.com
-* **Developer:** SLV / Lokanath
+* **Developer:** OEDC

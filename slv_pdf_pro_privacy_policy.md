@@ -84,5 +84,5 @@ We may periodically update this Privacy Policy to reflect app enhancements or le
 ### 8. Contact Us
 
 If you have any questions, feedback, or privacy concerns regarding **SLV PDF Pro**, please contact us via our developer GitHub profile:
-* **Developer:** Lokanath / SLV
+* **Developer:** OEDC
 * **GitHub Repository:** [https://github.com/Lokanath862001/SLV-PDF-Pro](https://github.com/Lokanath862001/SLV-PDF-Pro)

@@ -87,7 +87,7 @@ We may update this Privacy Policy periodically to reflect enhancements to our ap
 
 If you have questions, inquiries, or suggestions regarding this Privacy Policy or data privacy in OEDC Divine Wisdom, please contact:
 
-* **Developer / Publisher:** SLV / Lokanath
+* **Developer / Publisher:** OEDC
 * **Application:** OEDC Divine Wisdom (`com.oedc.divinewisdom`)
 * **Email:** madhusmita852011@gmail.com
 * **Official Privacy Policy Repository:** [https://github.com/Lokanath862001/allprivacypolicy](https://github.com/Lokanath862001/allprivacypolicy)

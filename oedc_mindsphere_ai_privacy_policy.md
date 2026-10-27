@@ -62,6 +62,6 @@ We may update this Privacy Policy from time to time to reflect operational, lega
 ### 7. Contact Us
 If you have any questions, feedback, or concerns regarding this Privacy Policy or the App, please reach out to us:
 
-* **Developer:** SLV / Lokanath
+* **Developer:** OEDC
 * **Email:** madhusmita852011@gmail.com
 * **Public Policy Repository:** [https://github.com/Lokanath862001/allprivacypolicy](https://github.com/Lokanath862001/allprivacypolicy)
