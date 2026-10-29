@@ -1,41 +1,54 @@
 # Privacy Policy & Legal Disclaimers for OEDC English Learning
 
-**Last Updated: October 27, 2026**
+**Last Updated: October 29, 2026**
 
 **OEDC English Learning** ("we," "our," or "us"), package name **`com.oedc.englishlearning`**, operates the OEDC English Learning mobile application (the "App"). We are dedicated to providing a safe, transparent, and world-class educational ecosystem for learners worldwide. This Privacy Policy details our data privacy protections, educational features, user tutorials, and complete adherence to Google Play Developer Program Policies, including the **Misleading Claims Policy** regarding government-related content and family data safety.
 
 ---
 
-## ⚠️ MANDATORY GOVERNMENT NON-AFFILIATION DISCLAIMER
+## ⚠️ MANDATORY GOVERNMENT NON-AFFILIATION & LOCAL DATA DECLARATION
 
-> ### **IMPORTANT DISCLAIMER: NON-REPRESENTATION OF GOVERNMENT ENTITIES**
-> **OEDC English Learning is an independent educational and self-study application developed and maintained privately by OEDC.**
+> ### **CRITICAL LEGAL NOTICE & DISCLAIMER: NON-GOVERNMENT ENTITY DECLARATION**
 >
-> 1. **NOT A GOVERNMENT ENTITY:**  
->    **This App DOES NOT represent, is NOT affiliated with, is NOT endorsed by, and is NOT officially authorized by the Government of India, any State Government, or any government commission, recruitment board, or public sector agency (including UPSC, SSC, IBPS, NTA, CTET/CBSE, or State PSCs).**
-> 2. **NO OFFICIAL GOVERNMENT SERVICES:**  
->    This App does not process official exam registrations, issue admit cards, collect official fees, publish verified government results, or facilitate any official administrative transactions or public services.
-> 3. **NO GOVERNMENT AUTHORIZATION REQUIRED:**  
->    This App is purely an academic learning aid and does not require government authorization. The App maintains its own proprietary, curated, offline database stored locally on the user's device. **No official government APIs, no restricted government databases, and no official administrative servers are accessed, used, or queried by this application.**
-> 4. **PURPOSE OF PUBLIC DOMAIN DATA:**  
->    Any historical examination questions, syllabi structures, grammar exercises, or vocabulary patterns included in our study material are collected or extracted from publicly accessible government exam archives and public domain resources where such information is published freely for public awareness. Such materials are utilized strictly for educational preparation, knowledge-based practice, and scholarly self-improvement under fair use.
+> 1. **NO RESEMBLANCE & NOT A GOVERNMENT ENTITY:**  
+>    **OEDC English Learning does not have any resemblance with any government entity, government body, department, ministry, or commission. We are NOT a government body, NOT a government entity, and NOT affiliated with, sponsored by, or endorsed by the Government of India, any State Government, or any official public authority.**
+>
+> 2. **NO AFFILIATION WITH EXAMINATION BOARDS:**  
+>    This application is an independent, privately created and maintained academic self-study tool. It is **NOT associated with, endorsed by, or authorized by** any official government testing agency or recruitment commission, including but not limited to:
+>    * Union Public Service Commission (UPSC)
+>    * Staff Selection Commission (SSC)
+>    * Institute of Banking Personnel Selection (IBPS)
+>    * Central Board of Secondary Education (CBSE / CTET)
+>    * National Testing Agency (NTA / UGC NET)
+>    * Any State Public Service Commission (State PSCs)
+>
+> 3. **LOCAL DATABASE ONLY – NO CLAIM TO GOVERNMENT DATA:**  
+>    **All exam question papers, practice questions, grammar matrices, vocabulary quizzes, and distractor rationale solutions available in this application are loaded strictly from an internal local offline database created, organized, and maintained solely by the application developers.**  
+>    * **No data in this application is claimed to be official government data.**  
+>    * The App does **NOT** query, connect to, access, or mirror any official government servers, restricted databases, or government APIs.
+>
+> 4. **NO OFFICIAL GOVERNMENT SERVICES FACILITATED:**  
+>    This application is strictly an educational self-study companion. It does **not** process examination applications, does not issue admit cards or hall tickets, does not collect government fees, does not publish certified official exam results, and does not provide or facilitate any official government administrative services.
+>
+> 5. **PURPOSE OF PUBLIC EDUCATIONAL REFERENCES:**  
+>    Any historical question patterns, syllabi topics, or vocabulary references included for study preparation are curated from public domain educational materials and publicly accessible archives freely available for public knowledge. All content is adapted strictly for educational practice, conceptual learning, and academic self-improvement under fair use.
 
 ---
 
-## 🌐 OFFICIAL SOURCES OF GOVERNMENT & EXAMINATION INFORMATION
+## 🌐 OFFICIAL SOURCES FOR GOVERNMENT INFORMATION & EXAMINATIONS
 
-To ensure complete transparency and in compliance with Google Play's Misleading Claims Policy, we provide direct, accessible links to the original, authentic government portals where official notifications, syllabi, and public past papers are published:
+In strict compliance with Google Play's **Misleading Claims Policy**, we provide verified, direct, and accessible links to the authentic, official government portals where official notifications, syllabi, exam dates, and authentic answer keys are published:
 
-| Examination Body / Category | Official Government Entity | Official Website Link |
+| Examination / Category | Official Government Body | Official Functional Website Link |
 | :--- | :--- | :--- |
-| **Civil Services, NDA, CDS, CAPF** | Union Public Service Commission (UPSC) | [https://upsc.gov.in](https://upsc.gov.in) |
-| **Central Recruitment (CGL, CHSL, CPO)** | Staff Selection Commission (SSC) | [https://ssc.gov.in](https://ssc.gov.in) |
-| **Banking & Financial Recruitment** | Institute of Banking Personnel Selection (IBPS) | [https://www.ibps.in](https://www.ibps.in) |
-| **Teacher Eligibility (CTET)** | Central Board of Secondary Education (CBSE) | [https://ctet.nic.in](https://ctet.nic.in) |
-| **Higher Education & Research (NET)** | National Testing Agency (UGC NET) | [https://ugcnet.nta.nic.in](https://ugcnet.nta.nic.in) |
-| **National Information & Services** | Government of India Official Portal | [https://www.india.gov.in](https://www.india.gov.in) |
+| **Civil Services (IAS), NDA, CDS, CAPF** | Union Public Service Commission (UPSC) | [https://upsc.gov.in](https://upsc.gov.in) |
+| **Central Recruitment (CGL, CHSL, CPO, MTS)** | Staff Selection Commission (SSC) | [https://ssc.gov.in](https://ssc.gov.in) |
+| **Banking Recruitment (PO, Clerk, SO)** | Institute of Banking Personnel Selection (IBPS) | [https://www.ibps.in](https://www.ibps.in) |
+| **Teacher Eligibility Test (CTET)** | Central Board of Secondary Education (CBSE) | [https://ctet.nic.in](https://ctet.nic.in) |
+| **Higher Education & Research (NET / JRF)** | National Testing Agency / UGC NET | [https://ugcnet.nta.nic.in](https://ugcnet.nta.nic.in) |
+| **National Directory & Citizen Services** | National Portal of India (Govt. of India) | [https://www.india.gov.in](https://www.india.gov.in) |
 
-*Learners and aspirants are strongly advised to always consult the official government websites listed above for authentic examination notifications, eligibility criteria, admit cards, and official answer keys.*
+> *Aspirants and students are strongly advised to always consult the verified official government websites listed above for authentic examination notifications, official eligibility criteria, schedules, admit cards, and verified answer keys.*
 
 ---
 
@@ -55,7 +68,7 @@ To ensure complete transparency and in compliance with Google Play's Misleading 
 ## 2. Features & Pedagogical Capabilities
 
 The App provides comprehensive, offline-first English learning features:
-* **Authentic 10-Year Competitive Exam Hub:** Past solved questions (2014–2023) covering UPSC CSE (IAS), NDA, CDS, CAPF, SSC (CGL, CHSL, CPO, MTS), Banking (IBPS PO, SBI PO, RBI Grade B), and Teaching/Eligibility (CTET, UGC NET) with Expected Value (EV) metrics and pedagogical distractor rationales explaining why right answers are correct and wrong distractors fail.
+* **Authentic 10-Year Competitive Exam Hub (Offline & Self-Contained):** Past solved questions (2014–2023) covering UPSC CSE (IAS), NDA, CDS, CAPF, SSC (CGL, CHSL, CPO, MTS), Banking (IBPS PO, SBI PO, RBI Grade B), and Teaching/Eligibility (CTET, UGC NET) are maintained solely within our internal local offline database. No data claims official government data status, and all pedagogical distractor rationales explaining why right answers are correct and wrong distractors fail are independently authored by our educational team.
 * **40-Level CEFR Master Curriculum (A1–C2):** Structured progression across Foundational (Levels 0–10), Intermediate (Levels 11–20), Advanced (Levels 21–30), and Mastery (Levels 31–40).
 * **Scholarly Grammar Matrices:** Interactive formula breakdown for all 12 English tenses across affirmative, negative, and interrogative structures, plus Voice & Speech Transformation engines.
 * **Mistakes Vault:** Automatic cataloging of missed practice questions for targeted remediation until 100% mastery is achieved.
