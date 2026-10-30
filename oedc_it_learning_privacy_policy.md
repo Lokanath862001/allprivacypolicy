@@ -9,9 +9,9 @@
 
 ---
 
-## 🏛️ MANDATORY GOVERNMENT NON-AFFILIATION & LOCAL DATA DECLARATION
+## 🏛️ GOVERNMENT NON-AFFILIATION DISCLAIMER & SOURCES OF GOVERNMENT INFORMATION
 
-> ### **CRITICAL LEGAL NOTICE & DISCLAIMER: NON-GOVERNMENT ENTITY DECLARATION**
+> ### **CRITICAL LEGAL NOTICE: GOVERNMENT NON-AFFILIATION DISCLAIMER**
 >
 > 1. **NO RESEMBLANCE & NOT A GOVERNMENT ENTITY:**  
 >    **OEDC IT Learning does not have any resemblance with any government entity, government body, department, ministry, or commission. We are NOT a government body, NOT a government entity, and NOT affiliated with, sponsored by, or endorsed by the Government of India, the United States Government, or any State/Federal government entity, public department, or official public authority.**
@@ -41,6 +41,8 @@ In strict compliance with Google Play's **Misleading Claims Policy**, we provide
 | :--- | :--- | :--- |
 | **Cybersecurity Standards (NIST)** | National Institute of Standards and Technology (U.S. Dept. of Commerce) | [https://www.nist.gov](https://www.nist.gov) & [https://csrc.nist.gov](https://csrc.nist.gov) |
 | **Infrastructure & Cyber Defense (CISA)** | Cybersecurity and Infrastructure Security Agency (U.S. DHS) | [https://www.cisa.gov](https://www.cisa.gov) |
+| **Federal Cloud Security (FedRAMP)** | Federal Risk and Authorization Management Program (U.S. GSA) | [https://www.fedramp.gov](https://www.fedramp.gov) |
+| **Vulnerabilities & Exposures (CVE)** | CVE Program (Sponsored by CISA / U.S. DHS) | [https://cve.mitre.org](https://cve.mitre.org) |
 | **Indian Computer Emergency Response Team** | CERT-In (Ministry of Electronics and Information Technology, Govt. of India) | [https://www.cert-in.org.in](https://www.cert-in.org.in) |
 | **Electronics & IT Policy (MeitY)** | Ministry of Electronics and Information Technology (Government of India) | [https://www.meity.gov.in](https://www.meity.gov.in) |
 | **Open Government Data Platform India** | Government of India National Data Portal | [https://data.gov.in](https://data.gov.in) |
