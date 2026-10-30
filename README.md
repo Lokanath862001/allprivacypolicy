@@ -7,5 +7,6 @@ Repository containing public privacy policies for applications developed by OEDC
 - [OEDC Baby Learning Privacy Policy](./oedc_babylearning_privacy_policy.md)
 - [OEDC Divine Wisdom Privacy Policy (`com.oedc.divinewisdom`)](./oedc_divine_wisdom_privacy_policy.md)
 - [OEDC English Learning Privacy Policy (`com.oedc.englishlearning`)](./oedc_english_learning_privacy_policy.md)
+- [OEDC IT Learning Privacy Policy (`org.oedc.oedc_it_learning`)](./oedc_it_learning_privacy_policy.md)
 - [OEDC MindSphere AI Privacy Policy (`com.oedc.mindsphereai`)](./oedc_mindsphere_ai_privacy_policy.md)
 - [SLV PDF Pro Privacy Policy (`com.slv.pdfpro`)](./slv_pdf_pro_privacy_policy.md)

@@ -4,3 +4,4 @@ https://play.google.com/store/apps/details?id=com.oedc.indiaPostOffices
 https://play.google.com/store/apps/details?id=com.oedc.mindsphereai
 https://play.google.com/store/apps/details?id=com.slv.daily_inspire_ai
 https://play.google.com/store/apps/details?id=com.oedc.englishlearning
+https://play.google.com/store/apps/details?id=org.oedc.oedc_it_learning
