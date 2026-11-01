@@ -1,11 +1,12 @@
 # Privacy Policy for OEDC English Learning
 
-**Last Updated:** October 31, 2026  
-**Effective Date:** October 31, 2026  
+**Last Updated:** November 1, 2026  
+**Effective Date:** November 1, 2026  
 **Application Name:** OEDC English Learning  
-**Package Name:** `com.oedc.englishlearning`  
-**Developer / Publisher:** OEDC (Shree Lakshmi Ventures)  
+**Package Name (Application ID):** `com.oedc.englishlearning`  
+**Developer / Publisher:** OEDC (Shree Lakshmi Ventures / Lokanath)  
 **Contact Email:** `madhusmita852011@gmail.com`  
+**Live Web Privacy Policy (HTML):** [https://lokanath862001.github.io/allprivacypolicy/oedc_english_learning_privacy_policy.html](https://lokanath862001.github.io/allprivacypolicy/oedc_english_learning_privacy_policy.html)  
 **Official Privacy Policy Repository:** [https://github.com/Lokanath862001/allprivacypolicy](https://github.com/Lokanath862001/allprivacypolicy)  
 **Direct Privacy Policy Link:** [https://github.com/Lokanath862001/allprivacypolicy/blob/main/oedc_english_learning_privacy_policy.md](https://github.com/Lokanath862001/allprivacypolicy/blob/main/oedc_english_learning_privacy_policy.md)  
 
@@ -13,7 +14,7 @@
 
 ## 1. Overview & Non-Affiliation Disclaimer
 
-**OEDC (Shree Lakshmi Ventures)** ("we", "our", or "us") developed the **OEDC English Learning** mobile application (package name: `com.oedc.englishlearning`) as an independent, offline-first educational self-study companion designed to help students, job aspirants, and language learners master English grammar, vocabulary, pronunciation, and practice solved past competitive examination papers.
+**OEDC (Shree Lakshmi Ventures / Lokanath)** ("we", "our", or "us") developed the **OEDC English Learning** mobile application (package name: `com.oedc.englishlearning`) as an independent, offline-first educational self-study companion designed to help students, job aspirants, and language learners master English grammar, vocabulary, pronunciation, and practice solved past competitive examination papers.
 
 > ### **Government Non-Affiliation Disclaimer**
 > **OEDC English Learning is an independent educational application developed and maintained privately by OEDC (Shree Lakshmi Ventures). This application is NOT affiliated with, endorsed by, sponsored by, authorized by, or in any way officially connected with any government entity, government body, department, ministry, commission, or examination authority (including the Union Public Service Commission [UPSC], Staff Selection Commission [SSC], Institute of Banking Personnel Selection [IBPS], Central Board of Secondary Education [CBSE / CTET], National Testing Agency [NTA / UGC NET], State Bank of India [SBI], Reserve Bank of India [RBI], State Public Service Commissions [State PSCs], or the Government of India).**
@@ -85,31 +86,34 @@ In strict compliance with Google Play Developer Program Policies regarding gover
 ## 3. Information We Collect vs. Information We Do NOT Collect
 
 ### A. Personal Information Minimization (We Do NOT Collect)
-The **OEDC English Learning** application does **NOT** require user registration, account creation, or sign-in. We do **NOT** collect, transmit, store, sell, or broker any personal identifiable information, including:
+The **OEDC English Learning** application does **NOT** require user registration, account creation, or sign-in. We do **NOT** collect, transmit, store, sell, trade, or broker any personal identifiable information, including:
 * Full names, residential addresses, personal email addresses, or phone numbers.
-* Government-issued identification numbers (Aadhaar, PAN, Passport, Voter ID, etc.).
+* Government-issued identification numbers (Aadhaar, PAN, Passport, Voter ID, Social Security Number, etc.).
+* Financial details: Bank account numbers, payment cards, or payment credentials.
 * Device contacts, address books, call logs, SMS, or private messages.
 * Camera feed, photo gallery, media files, or external storage files.
 * Voice recordings: Pronunciation drills use on-device Text-to-Speech (TTS) synthesized locally by the operating system. We do **NOT** record, stream, or collect user voice or microphone audio.
+* Precise GPS geolocation or background location tracking.
 
 ### B. Technical Diagnostic & Pseudonymous Identifiers
-To maintain app stability and display advertisements, the App may automatically receive limited, non-personally identifiable pseudonymous signals through standard platform SDKs:
+To maintain app stability and display advertisements, the App may automatically receive limited, non-personally identifiable pseudonymous signals through standard platform SDKs (such as Google Mobile Ads SDK):
 * Device model, manufacturer, and operating system version.
 * Network connectivity state (online/offline).
-* Crash logs and app performance telemetry (via Google Play Console).
+* Crash logs, ANRs, and app performance telemetry (via Google Play Console).
 * Google Advertising ID (GAID / AAID) as handled by Google Mobile Ads SDK.
+* Approximate (coarse, city/country-level) location derived from IP address for regional advertising compliance.
 
 ---
 
-## 4. Advertisements (Google AdMob)
+## 4. Advertisements (Google AdMob) & Third-Party SDK Disclosures
 
 The application displays advertisements provided by **Google Mobile Ads (AdMob)** to support ongoing maintenance and provide free access to educational content without mandatory subscription paywalls:
 
 * **Placement & Ethics:** Ads are presented as adaptive bottom banners, natural lesson-transition interstitials, or optional rewarded videos for topic milestones. Advertisements are never forced during active quiz evaluations.
 * **Data Handled by Google:** Google AdMob may collect and process pseudonymous identifiers and device metrics in compliance with Google's Privacy Policies:
   * Google Advertising ID (GAID / AAID)
-  * Coarse (network-level) approximate location
-  * Ad impression, interaction, and fraud-detection telemetry
+  * Coarse (network-level) approximate location derived from IP address
+  * Ad impression, interaction, viewability, and fraud-detection telemetry
 * **Advertising Identifiers Control:** You can inspect, reset, or delete your Advertising Identifier at any time directly through your Android device settings:  
   **Android Settings > Google > Ads > Reset or Delete Advertising ID**.
 * **Third-Party Policy References:**
@@ -148,24 +152,29 @@ The application does **NOT** request, access, or utilize:
 ## 7. Children's Privacy (Google Play Families & COPPA Compliance)
 
 **OEDC English Learning** is designed for a general audience of students, language learners, and competitive exam aspirants (Rated for Everyone / 3+):
-* We strictly adhere to the Children's Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR).
-* AdMob requests are configured with strict family-safe filters. Sensitive advertising categories (gambling, alcohol, dating, mature themes) are permanently blocked.
-* We do not knowingly collect, retain, or solicit personal data from children under the age of 13.
-* Rewarded ads for unlocking topics are 100% voluntary, with an alternative unlock method available using earned in-app learning points (XP).
+* We strictly adhere to the Children's Online Privacy Protection Act (COPPA), General Data Protection Regulation (GDPR-K), and Google Play Developer Program Families Policy.
+* AdMob requests are configured with strict family-safe filters (`MAX_AD_CONTENT_RATING_G`). Sensitive advertising categories (gambling, alcohol, dating, mature themes) are permanently blocked.
+* Personalized ad tracking is disabled for child users.
+* We do not knowingly collect, retain, or solicit personal data from children under the age of 13 (or under 16 in the European Union).
+* Rewarded ads for unlocking topics are 100% voluntary, with an alternative unlock method available using earned in-app learning points (XP). Learners are never forced to watch advertisements to study.
+* **Parental Rights:** Parents and guardians may contact us at `madhusmita852011@gmail.com` to review, request deletion of, or query any technical identifiers.
 
 ---
 
-## 8. User Data Control, Retention & Deletion Policy
+## 8. User Data Control, Retention & Deletion Policy (Google Play Data Safety Compliance)
 
 Because all learning metrics, quiz scores, and preferences reside locally on your device:
 
+* **Data Retention Schedule:**
+  * Local educational progress, streak counts, and quiz scores are retained in device sandbox storage until reset by the user or the app is uninstalled.
+  * Pseudonymous telemetry handled by Google AdMob is retained according to Google's standard data retention schedules.
 * **Instant In-App Progress Reset:** You can erase all XP points, daily streak counters, and mistake vault entries at any time directly within the application:  
   **Settings > Data & Progress Management > Reset All Progress**.
 * **Complete Data Eradication:** You can permanently delete all local application data, cached modules, and preferences by clearing storage via Android settings:  
   **Android Settings > Apps > OEDC English Learning > Storage > Clear Data / Clear Storage**, or simply by uninstalling the application from your device.
-* **Data Deletion Request Mechanism:** If you have questions, require assistance with data deletion, or wish to submit a privacy inquiry regarding any platform identifiers, please contact us at:  
+* **Direct User Data Deletion Request Mechanism:** If you have questions, require assistance with data deletion, or wish to submit a privacy inquiry regarding any platform identifiers, please contact us at:  
   **Email:** `madhusmita852011@gmail.com` (Subject: `Data Deletion Request - com.oedc.englishlearning`).  
-  All deletion requests and inquiries are acknowledged and resolved within 30 days.
+  * All deletion requests and privacy inquiries are acknowledged within 48 hours and fully resolved within 30 days without cost.
 
 ---
 
@@ -177,7 +186,7 @@ The application includes an educational discovery directory enabling users to ex
 
 ---
 
-## 10. Security & Encryption
+## 10. Security & Encryption Standards
 
 * All external web links (including documentation links, GitHub privacy repositories, and official government information portals) open strictly over encrypted HTTPS/TLS connections.
 * No executable code, dynamic secondary payloads, or unverified external scripts are ever downloaded or evaluated by the application.
@@ -186,7 +195,7 @@ The application includes an educational discovery directory enabling users to ex
 
 ## 11. Changes to This Privacy Policy
 
-We may periodically revise this Privacy Policy to reflect application updates, regulatory guidelines, or Google Play Developer Program Policy amendments. Any revisions will be published immediately to our public GitHub privacy policy repository with an updated "Last Updated" and "Effective Date" timestamp.
+We may periodically revise this Privacy Policy to reflect application updates, regulatory guidelines, or Google Play Developer Program Policy amendments. Any revisions will be published immediately to our public GitHub privacy policy repository and live hosted web page with an updated "Last Updated" and "Effective Date" timestamp.
 
 ---
 
@@ -194,9 +203,10 @@ We may periodically revise this Privacy Policy to reflect application updates, r
 
 If you have questions, feedback, or legal inquiries regarding this Privacy Policy or data privacy in OEDC English Learning, please contact:
 
-* **Developer / Publisher:** OEDC (Shree Lakshmi Ventures)
+* **Developer / Publisher:** OEDC (Shree Lakshmi Ventures / Lokanath)
 * **Application:** OEDC English Learning
-* **Package Name:** `com.oedc.englishlearning`
+* **Package Name (Application ID):** `com.oedc.englishlearning`
 * **Contact Email:** `madhusmita852011@gmail.com`
+* **Live Web Privacy Policy (HTML):** [https://lokanath862001.github.io/allprivacypolicy/oedc_english_learning_privacy_policy.html](https://lokanath862001.github.io/allprivacypolicy/oedc_english_learning_privacy_policy.html)
 * **Official Privacy Policy Repository:** [https://github.com/Lokanath862001/allprivacypolicy](https://github.com/Lokanath862001/allprivacypolicy)
 * **Direct Privacy Policy Link:** [https://github.com/Lokanath862001/allprivacypolicy/blob/main/oedc_english_learning_privacy_policy.md](https://github.com/Lokanath862001/allprivacypolicy/blob/main/oedc_english_learning_privacy_policy.md)
