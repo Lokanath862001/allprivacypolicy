@@ -3,7 +3,7 @@
 Repository containing public privacy policies for applications developed and published by **OEDC (Shree Lakshmi Ventures / Lokanath)**.
 
 ### Available Privacy Policies:
-- **[OEDC English Learning Web Policy (HTML)](./oedc_english_learning_privacy_policy.html)** | **[Markdown Version](./oedc_english_learning_privacy_policy.md)** (`com.oedc.englishlearning`)
+- **[OEDC English Learning Privacy Policy (Markdown)](./oedc_english_learning_privacy_policy.md)** (`com.oedc.englishlearning`)
 - [OEDC IT Learning Privacy Policy (`org.oedc.oedc_it_learning`)](./oedc_it_learning_privacy_policy.md)
 - [OEDC MindSphere AI Privacy Policy (`com.oedc.mindsphereai`)](./oedc_mindsphere_ai_privacy_policy.md)
 - [OEDC Divine Wisdom Privacy Policy (`com.oedc.divinewisdom`)](./oedc_divine_wisdom_privacy_policy.md)

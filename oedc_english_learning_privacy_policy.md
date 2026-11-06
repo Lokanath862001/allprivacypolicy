@@ -1,12 +1,11 @@
 # Privacy Policy for OEDC English Learning
 
-**Last Updated:** November 1, 2026  
-**Effective Date:** November 1, 2026  
+**Last Updated:** November 6, 2026  
+**Effective Date:** November 6, 2026  
 **Application Name:** OEDC English Learning  
 **Package Name (Application ID):** `com.oedc.englishlearning`  
 **Developer / Publisher:** OEDC (Shree Lakshmi Ventures / Lokanath)  
 **Contact Email:** `madhusmita852011@gmail.com`  
-**Live Web Privacy Policy (HTML):** [https://lokanath862001.github.io/allprivacypolicy/oedc_english_learning_privacy_policy.html](https://lokanath862001.github.io/allprivacypolicy/oedc_english_learning_privacy_policy.html)  
 **Official Privacy Policy Repository:** [https://github.com/Lokanath862001/allprivacypolicy](https://github.com/Lokanath862001/allprivacypolicy)  
 **Direct Privacy Policy Link:** [https://github.com/Lokanath862001/allprivacypolicy/blob/main/oedc_english_learning_privacy_policy.md](https://github.com/Lokanath862001/allprivacypolicy/blob/main/oedc_english_learning_privacy_policy.md)  
 
@@ -69,7 +68,17 @@ In strict compliance with Google Play Developer Program Policies regarding gover
      - West Bengal Public Service Commission (WBPSC): [https://psc.wb.gov.in](https://psc.wb.gov.in)  
    - **Coverage / Scope:** State civil services general English compulsory papers and language practice questions.
 
-8. **National Portal of India & Open Government Data (OGD)**  
+8. **Common Admission Test (CAT / IIMs)**  
+   - **Authority:** Indian Institutes of Management (IIMs).  
+   - **Official Website:** [https://iimcat.ac.in](https://iimcat.ac.in)  
+   - **Coverage / Scope:** Verbal Ability and Reading Comprehension (VARC) syllabus patterns and academic reading models.
+
+9. **Consortium of National Law Universities (CLAT)**  
+   - **Authority:** Consortium of National Law Universities.  
+   - **Official Website:** [https://consortiumofnlus.ac.in](https://consortiumofnlus.ac.in)  
+   - **Coverage / Scope:** Legal English comprehension, vocabulary in context, and critical reasoning frameworks.
+
+10. **National Portal of India & Open Government Data (OGD)**  
    - **Authority:** National Informatics Centre (NIC), Ministry of Electronics and Information Technology (MeitY), Government of India.  
    - **Official Portals:** [https://www.india.gov.in](https://www.india.gov.in) & [https://data.gov.in](https://data.gov.in)  
    - **Coverage / Scope:** Official central directory of Indian government portals, notifications, and open public educational resources.
@@ -195,7 +204,7 @@ The application includes an educational discovery directory enabling users to ex
 
 ## 11. Changes to This Privacy Policy
 
-We may periodically revise this Privacy Policy to reflect application updates, regulatory guidelines, or Google Play Developer Program Policy amendments. Any revisions will be published immediately to our public GitHub privacy policy repository and live hosted web page with an updated "Last Updated" and "Effective Date" timestamp.
+We may periodically revise this Privacy Policy to reflect application updates, regulatory guidelines, or Google Play Developer Program Policy amendments. Any revisions will be published immediately to our public GitHub privacy policy repository with an updated "Last Updated" and "Effective Date" timestamp.
 
 ---
 
@@ -207,6 +216,5 @@ If you have questions, feedback, or legal inquiries regarding this Privacy Polic
 * **Application:** OEDC English Learning
 * **Package Name (Application ID):** `com.oedc.englishlearning`
 * **Contact Email:** `madhusmita852011@gmail.com`
-* **Live Web Privacy Policy (HTML):** [https://lokanath862001.github.io/allprivacypolicy/oedc_english_learning_privacy_policy.html](https://lokanath862001.github.io/allprivacypolicy/oedc_english_learning_privacy_policy.html)
 * **Official Privacy Policy Repository:** [https://github.com/Lokanath862001/allprivacypolicy](https://github.com/Lokanath862001/allprivacypolicy)
 * **Direct Privacy Policy Link:** [https://github.com/Lokanath862001/allprivacypolicy/blob/main/oedc_english_learning_privacy_policy.md](https://github.com/Lokanath862001/allprivacypolicy/blob/main/oedc_english_learning_privacy_policy.md)
